@@ -1,0 +1,17 @@
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletTest.deps.json
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletTest.runtimeconfig.json
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletTest.runtimeconfig.dev.json
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletTest.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletTest.pdb
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.csprojAssemblyReference.cache
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.AssemblyInfoInputs.cache
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.AssemblyInfo.cs
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.csproj.CopyComplete
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.dll
+C:\Users\Mikail Fener\source\repos\BilletLibrary\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.pdb
